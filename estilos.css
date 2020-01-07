@@ -1,0 +1,17 @@
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+table, td {
+    border: 1px solid #000000;
+}
+
+td.col1{
+    width: 20%;
+}
+
+td.col2{
+    width: 40;
+}
